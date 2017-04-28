@@ -1,0 +1,3 @@
+windowWidth: 1280
+windowHeight: 1001
+windowPos: 0,23092
